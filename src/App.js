@@ -16,6 +16,7 @@ function App() {
         <Route path="/Login" element={<Login />} />
         {/* <Route path="/" component={Home} /> */}
       </Routes>
+      <h1>hi am</h1>
     </div>
   </Router>
     
